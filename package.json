@@ -1,6 +1,6 @@
 {
   "name": "@clubfest/pub-sub",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module containing a simple pub-sub implementation.",
   "main": "pubSub.js",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "author": "clubfest",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SlowBubble/pub-sub/issues"
   },
