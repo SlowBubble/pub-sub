@@ -1,0 +1,23 @@
+{
+  "name": "@clubfest/pub-sub",
+  "version": "0.1.0",
+  "description": "A module containing a simple pub-sub implementation.",
+  "main": "pubSub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlowBubble/pub-sub.git"
+  },
+  "keywords": [
+    "pub",
+    "sub"
+  ],
+  "author": "clubfest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlowBubble/pub-sub/issues"
+  },
+  "homepage": "https://github.com/SlowBubble/pub-sub#readme"
+}
